@@ -15,4 +15,4 @@ function UpdateClock()
 }
 
 UpdateClock();
-setInterval(UpdateClock,10000);
+setInterval(UpdateClock,10000)
